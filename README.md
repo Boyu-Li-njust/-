@@ -12,24 +12,25 @@
 
 - 换行  
   两个以上空格+回车；  
+
 - 快捷键
-<img width="724" height="519" alt="image" src="https://github.com/user-attachments/assets/2ff8b440-7ca1-4851-82a5-409ed47f70e0" />
+![快捷键](https://github.com/user-attachments/assets/2ff8b440-7ca1-4851-82a5-409ed47f70e0)
 
 - 字体  
- <img width="385" height="257" alt="image" src="https://github.com/user-attachments/assets/75fd5ee6-b5a1-451d-a004-ad3abfc1cc7c" />
+ ![字体](https://github.com/user-attachments/assets/75fd5ee6-b5a1-451d-a004-ad3abfc1cc7c)
 
 - 标题  
-<img width="441" height="382" alt="image" src="https://github.com/user-attachments/assets/fcd5cc4e-96f3-4bcb-81f2-219ae7b93bb4" />
+![标题](https://github.com/user-attachments/assets/fcd5cc4e-96f3-4bcb-81f2-219ae7b93bb4)
 
 - 链接  
-<img width="236" height="120" alt="image" src="https://github.com/user-attachments/assets/a885f40b-8ee1-4755-849d-e5f68468bde3" />
+![链接](https://github.com/user-attachments/assets/a885f40b-8ee1-4755-849d-e5f68468bde3)
 
 - 代码  
   行内代码：用单反引号引起来；
   多行代码块：第一行和最后一行用三个单引号包裹；
   
 - 表格  
-<img width="393" height="253" alt="image" src="https://github.com/user-attachments/assets/86cb2db2-8457-44e8-992c-e87d63f89300" />
+![表格](https://github.com/user-attachments/assets/86cb2db2-8457-44e8-992c-e87d63f89300)
 
 可指定对齐方式，冒号在左边表示左对齐，冒号在右边表示右对齐，两边都有冒号表示居中；
 
